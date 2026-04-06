@@ -24,4 +24,4 @@ This repository is the main docs hub for UtopikCode projects. It holds architect
 
 New to the organization? Start with [Quickspaces](../projects/quickspaces/README.md).
 
-Want to contribute? Check the [Quickspaces repository](https://github.com/UtopikCode/quickspaces) and the [contributing guide](https://github.com/UtopikCode/quickspaces/blob/main/CONTRIBUTING.md).
+Want to contribute? Check this documentation and open issues or discussions to get involved.

@@ -46,9 +46,8 @@ Quickspaces lets you run a complete development environment **within your infras
 - [Repository Provider Support](./docs/repository-provider-support.md)
 
 ### External resources
-- [Main repository](https://github.com/UtopikCode/quickspaces)
-- [GitHub Issues](https://github.com/UtopikCode/quickspaces/issues)
-- [GitHub Discussions](https://github.com/UtopikCode/quickspaces/discussions)
+
+For questions and contributions, refer to the documentation in this repository. Updates and discussions happen here.
 
 ## Project status
 

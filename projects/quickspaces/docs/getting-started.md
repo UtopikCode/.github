@@ -1,5 +1,6 @@
 # Getting Started
 
-This repository currently presents Quickspaces as a featured project. For the full Quickspaces getting started guide, see the official Quickspaces repository:
+Comming soon. This guide will cover setup and initial usage of Quickspaces.
 
-- [Quickspaces Getting Started](https://github.com/UtopikCode/quickspaces/blob/main/docs/getting-started.md)
+In the meantime, refer to the [Developer Experience Guide](./developer-experience.md) for a walkthrough of typical workflows.
+

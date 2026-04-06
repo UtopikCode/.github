@@ -1,5 +1,6 @@
 # Deployment
 
-This repository currently presents Quickspaces as a featured project. For the full Quickspaces deployment guide, see the official Quickspaces repository:
+Coming soon. This guide will cover deploying and operating the Quickspaces control plane and runners.
 
-- [Quickspaces Deployment Guide](https://github.com/UtopikCode/quickspaces/blob/main/docs/deployment.md)
+In the meantime, refer to the [Control Plane Architecture](./control-plane-architecture.md) and [Runner Architecture](./runner-architecture.md) for architectural background.
+
