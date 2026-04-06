@@ -1,24 +1,23 @@
-# UtopikCode Docs
+# UtopikCode Docs Repository
 
-This repository is the main documentation hub for **UtopikCode** projects.
+This repository is intended for maintainers of the UtopikCode docs platform.
 
-It uses a lightweight project-style index so docs for each project can be added cleanly under `projects/<project-name>/`.
+It is not the primary entry point for most developers. The organization-facing welcome lives in `profile/README.md`.
 
-## 📁 Current structure
+## Repository structure
 
-- `profile/README.md` — docs repo overview
+- `profile/README.md` — organization entry point for developers
 - `projects/README.md` — docs index
 - `projects/quickspaces/README.md` — Quickspaces docs landing page
 - `projects/quickspaces/docs/` — Quickspaces topic documentation
 
-## 📚 What’s here
+## Purpose
 
-- **UtopikCode docs hub** — the main content of this repo
-- **Project-style docs index** — easy navigation and future growth
-- **Quickspaces docs** — currently the only published project documentation
+This root README is focused on repository maintenance, structure, and the intended docs layout.
+It is meant for people working on the repo itself, not for casual documentation readers.
 
-## 🔗 Links
+## Notes for maintainers
 
-- [Docs index](projects/README.md)
-- [Quickspaces docs landing page](projects/quickspaces/README.md)
-- [Docs repo overview](profile/README.md)
+- Keep the `profile/README.md` developer-facing and welcoming
+- Keep the root README concise and structural
+- Keep project docs under `projects/<project-name>/`

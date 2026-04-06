@@ -1,26 +1,27 @@
-# UtopikCode Docs
+# UtopikCode
 
-Welcome to the **UtopikCode documentation repository**.
+## Build without borders
 
-This repo is the main docs hub for UtopikCode projects, with content organized into a project-style index and per-project documentation folders.
+**Quickspaces** is an on-demand development environment platform that lets you work from anywhere, on any infrastructure, with full control over your code and data.
 
-## 📌 About this repository
+It's built for teams that need development environments to be fast, affordable, and independent from US-based cloud providers.
 
-- `README.md` — docs repo landing page
-- `projects/README.md` — docs index
-- `projects/quickspaces/README.md` — Quickspaces docs landing page
-- `projects/quickspaces/docs/` — Quickspaces topic documentation
+### Why Quickspaces?
 
-## 🚀 Current docs focus
+- **Infrastructure independence** – Run on your own servers, your country's infrastructure, or any cloud provider
+- **Data sovereignty** – Your code and development environment never leave your control
+- **Cost-aligned** – Pay only for the compute you actively use; idle workspaces don't cost you money
+- **GitHub & VS Code native** – Familiar tools, no vendor lock-in
+- **Docker Compose support** – Use realistic, multi-service development environments
 
-- **Quickspaces** — the current documentation collection published here.
+## Explore the docs
 
-## 🔍 Quick links
+Start with the [Quickspaces documentation](../projects/quickspaces/README.md) to learn more about architecture, deployment, and design intent.
 
-- [Docs index](../projects/README.md)
-- [Quickspaces docs landing page](../projects/quickspaces/README.md)
-- [Quickspaces docs folder](../projects/quickspaces/docs/)
+## UtopikCode organization
 
-## 📈 Future doc collections
+This repository is the main docs hub for UtopikCode projects. It holds architecture-level documentation and design intent for all current and future projects.
 
-New documentation collections can be added under `projects/<project-name>/` with their own `README.md` and `docs/` folder.
+New to the organization? Start with [Quickspaces](../projects/quickspaces/README.md).
+
+Want to contribute? Check the [Quickspaces repository](https://github.com/UtopikCode/quickspaces) and the [contributing guide](https://github.com/UtopikCode/quickspaces/blob/main/CONTRIBUTING.md).
