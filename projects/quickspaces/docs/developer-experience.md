@@ -41,7 +41,7 @@ All this takes **1–5 minutes**, depending on image size and network.
 
 The extension receives connection details:
 
-- SSH host: `runner-xyz.internal`
+- SSH host: `runner-xyz.example.com`
 - Port: `2222`
 - User: `quickspaces`
 

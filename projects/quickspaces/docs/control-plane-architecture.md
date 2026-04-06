@@ -115,7 +115,7 @@ The control plane maintains **desired state** for each workspace:
     "pool": "aws-us-east-1"
   },
   "connection": {
-    "vscode_remote_host": "runner-xyz789.internal",
+    "vscode_remote_host": "runner-xyz789.example.com",
     "vscode_remote_port": 22
   }
 }
@@ -405,10 +405,10 @@ created → provisioning → starting → started ← idle ← (resume)
       "workspace_id": "ws-abc",
       "actual_state": "started",
       "connection": {
-        "ssh_host": "runner-xyz.internal",
+        "ssh_host": "runner-xyz.example.com",
         "ssh_port": 2222,
         "ssh_user": "quickspaces",
-        "dns_name": "ws-abc.internal"
+        "dns_name": "ws-abc.example.com"
       }
     }
     ```

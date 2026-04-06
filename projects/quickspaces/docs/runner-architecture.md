@@ -84,7 +84,7 @@ POST /api/workspaces/{workspace_id}/status
 {
   "actual_state": "started",
   "connection": {
-    "ssh_host": "runner-abc.internal",
+    "ssh_host": "runner-abc.example.com",
     "ssh_port": 2222,
     "ssh_user": "quickspaces"
   },

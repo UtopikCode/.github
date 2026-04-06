@@ -84,9 +84,9 @@ runners:
   pool: on-prem-main
   implementation: physical          # Technology identifier
   hosts:
-    - host1.internal:22
-    - host2.internal:22
-    - host3.internal:22
+    - host1.example.com:22
+    - host2.example.com:22
+    - host3.example.com:22
   capacity_per_host: 4              # 4 concurrent workspaces per host
 ```
 
@@ -131,7 +131,7 @@ runners:
 runners:
   pool: proxmox-ha
   implementation: proxmox           # Technology identifier
-  proxmox_api: https://proxmox.internal:8006
+  proxmox_api: https://proxmox.example.com:8006
   node: pve-cluster
   template_vm: ubuntu-22-template   # Base VM image
   storage: local-lvm                # Storage backend
@@ -192,10 +192,10 @@ The TrueNAS App framework manages networking, persistence, health monitoring, an
 runners:
   pool: truenas-scale
   implementation: truenas          # Technology identifier
-  host: truenas.internal
+  host: truenas.example.com
   capacity: 4                      # 4 concurrent workspaces on this TrueNAS
   app_name: quickspaces-runner     # TrueNAS App name
-  storage_pool: tank/workspaces    # ZFS pool for workspace data
+  storage_pool: example-pool       # ZFS pool for workspace data
 ```
 
 **Cost example (small team, 4 workspaces concurrently):**
