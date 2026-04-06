@@ -38,6 +38,7 @@ Quickspaces lets you run a complete development environment **within your infras
 - [Getting Started Guide](./docs/getting-started.md)
 - [Workspace Concepts](./docs/workspace-concepts.md)
 - [Execution Model](./docs/execution-model.md)
+- [Repository Structure](./docs/repository-structure.md)
 - [Developer Experience Guide](./docs/developer-experience.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Control Plane Architecture](./docs/control-plane-architecture.md)
