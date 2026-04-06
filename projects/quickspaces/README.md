@@ -42,6 +42,8 @@ Quickspaces lets you run a complete development environment **within your infras
 - [Runner Architecture](./docs/runner-architecture.md)
 - [Why Quickspaces?](./docs/why-quickspaces.md)
 - [Infrastructure](./docs/infrastructure.md)
+- [Architecture Direction](./docs/architecture-direction.md)
+- [Repository Provider Support](./docs/repository-provider-support.md)
 
 ### External resources
 - [Main repository](https://github.com/UtopikCode/quickspaces)
